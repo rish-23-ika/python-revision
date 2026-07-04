@@ -9,5 +9,6 @@ Topics covered:
 - Strings
 - Lists
 - Dictionaries
+- condionals 10 practice questions
 
 More topics will be added as I continue revising Python.
