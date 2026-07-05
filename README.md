@@ -10,5 +10,7 @@ Topics covered:
 - Lists
 - Dictionaries
 - condionals 10 practice questions
+- loops 10 practice questions
+- iteration tools
 
 More topics will be added as I continue revising Python.
