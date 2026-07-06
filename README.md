@@ -12,5 +12,6 @@ Topics covered:
 - condionals 10 practice questions
 - loops 10 practice questions
 - iteration tools
+- functions 10 practice problems
 
 More topics will be added as I continue revising Python.
